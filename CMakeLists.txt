@@ -3,7 +3,7 @@ cmake_minimum_required( VERSION 2.8 )
 
 set( LUA_LIBRARIES lua )
 add_subdirectory( lua )
-set( LUA_INCLUDE_DIR} ${CMAKE_SOURCE_DIR}/lua ) # lua5.3
+set( LUA_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/lua ) # lua5.3
 include_directories( ${LUA_INCLUDE_DIR} )
 
 if( APPLE )

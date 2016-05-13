@@ -1,5 +1,9 @@
 # Selene
 
+Works on Linux+CMake+GCC4.9 now.
+
+---
+
 [![Build Status](https://travis-ci.org/jeremyong/Selene.svg?branch=master)](https://travis-ci.org/jeremyong/Selene)
 
 Simple C++11 friendly header-only bindings to Lua 5.1+.
