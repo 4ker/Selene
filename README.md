@@ -1,6 +1,7 @@
 # Selene
 
-Works on Linux+CMake+GCC4.9 now.
+Works on Linux+CMake+GCC4.9 now, but not Windows+VS2010, because VS2010 lacks
+support of basic C++11 feautures.
 
 ---
 
