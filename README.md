@@ -319,7 +319,7 @@ You can read more about this project in the three blogposts that describes it:
 - [ref-qualifier usage](http://www.jeremyong.com/blog/2014/02/15/using-ref-qualifiers/)
 
 There have been syntax changes in library usage but the underlying
-concepts of variadic template use and generics is the same.
+concepts of variadic (可变参数) template use and generics is the same.
 
 ## Roadmap
 
