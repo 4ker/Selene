@@ -45,6 +45,8 @@ else ( WIN32 )
 endif ( WIN32 )
 
 if( WIN32 )
+    # in VS, click <project> ---> type alt-enter ---> property panel
+    # nav to C/C++ ---> commandline options ---> add `/bigobj'
     set( CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /bigobj" )
 endif( WIN32 )
 
