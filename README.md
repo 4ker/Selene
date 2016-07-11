@@ -1,7 +1,9 @@
 # Selene
 
-Works on Linux+CMake+GCC4.9 now, but not Windows+VS2010, because VS2010 lacks
-support of basic C++11 feautures.
+Works on Linux+CMake+GCC4.9 & Windows+CMake+VS2015 now, but not
+Windows+CMake+VS2010, because VS2010 lacks support of basic C++11 feautures.
+
+可以在 Linux+CMake+GCC4.9 以及 Windows+CMake+VS2015 上成功编译运行，但 VS2010 不行，因为它缺乏必要的对 C++11 特性的支持。
 
 ---
 
